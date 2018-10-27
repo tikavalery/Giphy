@@ -1,0 +1,28 @@
+
+.numbered{
+    height:300px;
+    width:320px;
+    margin:10px;
+    border:4px solid blue;
+    float: left;
+
+}
+
+.gifs{
+    padding:10px;
+}
+
+.right-section{
+    border:4px solid blue;
+}
+.top-section{
+    border:4px solid blue;
+    width: 90%;
+    padding: 5px;
+}
+
+.right-input{
+    margin: 10px;
+}
+
+button{margin: 6px;}
